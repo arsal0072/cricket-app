@@ -1,0 +1,84 @@
+{
+    "point": [
+        {
+            "id": 1,
+            "name": "Chennai Super Kings",
+            "image": "CSK.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/58",
+            "win": "2010, 2011, 2018",
+            "purse_at_start": "19.90 Crore",
+            "purse_remaining": "2.25 Crore",
+            "squad_size": "25"
+        },
+        {
+            "id": 2,
+            "name": "Delhi Capitals",
+            "image": "DC.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/61",
+            "win": "",
+            "purse_at_start": "13.40 Crore",
+            "purse_remaining": "2.15 Crore",
+            "squad_size": "25"
+        },
+        {
+            "id": 3,
+            "name": "Kolkata Knight Riders",
+            "image": "KKR.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/63",
+            "win": "2012, 2014",
+            "purse_at_start": "10.75 Crore",
+            "purse_remaining": "3.20 Crore",
+            "squad_size": "25"
+        },
+        {
+            "id": 4,
+            "name": "Mumbai Indians",
+            "image": "MI.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/62",
+            "win": "2013, 2015, 2017, 2019, 2020",
+            "purse_at_start": "15.35 Crore",
+            "purse_remaining": "3.65 Crore",
+            "squad_size": "25"
+        },
+        {
+            "id": 5,
+            "name": "Punjab Kings",
+            "image": "PK.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/65",
+            "win": "",
+            "purse_at_start": "10.75 Crore",
+            "purse_remaining": "6.95 Crore",
+            "squad_size": "25"
+        },
+        {
+            "id": 6,
+            "name": "Rajasthan Royals",
+            "image": "RR.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/64",
+            "win": "2008",
+            "purse_at_start": "37.85 Crore",
+            "purse_remaining": "13.65 Crore",
+            "squad_size": "24"
+        },
+        {
+            "id": 7,
+            "name": "Royal Challengers Bangalore",
+            "image": "RCB.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/59",
+            "win": "",
+            "purse_at_start": "35.40 Crore",
+            "purse_remaining": "35.00 Crore",
+            "squad_size": "22"
+        },
+        {
+            "id": 8,
+            "name": "Sunrisers Hyderabad",
+            "image": "SH.png",
+            "link": "https://www.cricbuzz.com/cricket-series/ipl-2021/auction/teams/255",
+            "win": "2016",
+            "purse_at_start": "10.75 Crore",
+            "purse_remaining": "6.95 Crore",
+            "squad_size": "25"
+        }
+    ]
+}
